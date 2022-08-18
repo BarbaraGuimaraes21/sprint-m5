@@ -1,0 +1,7 @@
+.diagonal {
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 48%);
+    background-color: #707070;
+    position: absolute;
+    width: 100%;
+    height: 70%;
+}

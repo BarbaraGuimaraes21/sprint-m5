@@ -1,0 +1,20 @@
+.header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+}
+
+.divButtons {
+    display: flex;
+    flex-direction: row;
+}
+
+.headerButton {
+    background-color: #ffffff;
+    border: 1px #707070;
+    border-radius: 4px 4px 4px 4px;
+}
