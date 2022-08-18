@@ -1,5 +1,5 @@
 import React from 'react'
-import Style from './Diagonal/Diagonal.module.css'
+import Style from './Diagonal.module.css'
 
 const Diagonal = () => {
   return (
