@@ -1,9 +1,9 @@
 import React from 'react'
-import S from './Diagonal/Diagonal.module.css'
+import Style from './Diagonal/Diagonal.module.css'
 
 const Diagonal = () => {
   return (
-    <div className={S.diagonal}></div>
+    <div className={Style.diagonal}></div>
   )
 }
 
