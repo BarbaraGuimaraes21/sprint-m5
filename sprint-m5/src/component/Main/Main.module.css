@@ -1,0 +1,43 @@
+.main{
+    top: 860px;
+    left: 285px;
+    width: 931px;
+    height: 740px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.textosectionh3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.linhah3{ 
+    width: 1000px;
+    height: 500px;
+    margin-left: 400px;
+    display: flex;
+}
+
+.texth3{
+    margin-top: 290px;
+    font-weight: 400px;
+    text-align: center;
+    padding-left: 9px;
+    padding-right: 9px;
+    font: 16px Helvetica;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+hr{
+    margin-top: 300px;
+    width: 410px;
+    border: 1px solid #707070;
+}
