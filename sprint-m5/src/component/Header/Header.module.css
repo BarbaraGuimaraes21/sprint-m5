@@ -1,4 +1,6 @@
 .header {
+    width: 1500px;
+    height: 399px;
     position: relative;
     display: flex;
     flex-direction: column;
