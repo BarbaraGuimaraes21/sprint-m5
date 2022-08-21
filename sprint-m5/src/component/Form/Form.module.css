@@ -1,0 +1,83 @@
+form {
+    color: #888888;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 7px solid;
+}
+
+.div1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    height: 300px;
+}
+
+.divdescription {
+    display: flex;
+    flex-direction: column;
+    margin-top: -90px;
+    width: 500px;
+}
+
+.textoh2 {
+    font: normal 20px Helvetica;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+    top: 420px;
+    left: 290px;
+    width: 332px;
+    height: 50px;
+    text-align: left;
+}
+
+.textop {
+    top: 473px;
+    left: 290px;
+    width: 520px;
+    height: 100px;
+    text-align: left;
+    font: normal 12px Helvetica;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.input {
+    top: 583px;
+    left: 870px;
+    width: 340px;
+    height: 30px;
+}
+
+.radio {
+    width: 30px;
+    height: 15px;
+    border: 1px solid #707070;
+}
+
+.textoradio {
+    text-align: left;
+    font: normal 12px Helvetica;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.btnform {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    color: #888888;
+    border-radius: 4px;
+    opacity: 1;
+    font: normal 16px Helvetica;
+    margin-top: 20px;
+    top: 670px;
+    left: 870px;
+    width: 340px;
+    height: 39px;
+}
