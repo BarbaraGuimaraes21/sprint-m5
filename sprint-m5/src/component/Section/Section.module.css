@@ -23,13 +23,26 @@
     display: flex;
 }
 
-.texth3{
+.texto1h3{
     margin-top: 290px;
     font-weight: 400px;
     text-align: center;
-    padding-left: 9px;
-    padding-right: 9px;
-    font: 16px Helvetica;
+    padding-left: 11px;
+    padding-right: 11px;
+    font: 18px Helvetica;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.texto2h3{
+    margin-top: 290px;
+    font-weight: 400px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    font: 18px Helvetica;
     font-weight: bold;
     letter-spacing: 0px;
     color: #888888;
@@ -38,6 +51,6 @@
 
 hr{
     margin-top: 300px;
-    width: 410px;
+    width: 392px;
     border: 1px solid #707070;
 }
