@@ -3,7 +3,8 @@ import S from './Section.module.css'
 
 const Main = () => {
     return (
-        <main className={S.main}>
+        <div>
+        <div className={S.main}>
             <section className={S.textosectionh3}>
                 <div className={S.linhah3}>
                     <div>
@@ -15,6 +16,8 @@ const Main = () => {
                     </div>
                 </div>
             </section>
+            </div>
+            <div className={S.main}>
             <section className={S.textosectionh3}>
                 <div className={S.linhah3}>
                     <div>
@@ -26,7 +29,8 @@ const Main = () => {
                     </div>
                 </div>
             </section>
-        </main>
+            </div>
+            </div>
     )
 }
 
