@@ -1,3 +1,4 @@
+import { useState} from 'react'
 import './App.css'
 import InputCompartilhe from './component/Compartilhe/InputCompartilhe'
 import Footer from './component/Footer/Footer'
@@ -6,6 +7,7 @@ import Header from './component/Header/Header'
 import Section from './component/Section/Section'
 
 function App() {
+  const [count, setCount] = useState(0)
 
   return (
     <div>

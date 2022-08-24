@@ -2,7 +2,7 @@
     top: 860px;
     left: 285px;
     width: 931px;
-    height: 740px;
+    height: 350px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -63,4 +63,14 @@ hr{
     margin-top: 300px;
     width: 392px;
     border: 1px solid #707070;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 100px;
+    top: 860px;
+    left: 285px;
 }
