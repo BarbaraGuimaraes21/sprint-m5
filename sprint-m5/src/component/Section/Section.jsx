@@ -17,7 +17,7 @@ const Main = () => {
                 </div>
             </section>
             </div>
-            <div className={S.main}>
+            <div className={S.main2}>
             <section className={S.textosectionh3}>
                 <div className={S.linhah3}>
                     <div>
