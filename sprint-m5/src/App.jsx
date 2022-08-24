@@ -1,4 +1,5 @@
 import './App.css'
+import InputCompartilhe from './component/Compartilhe/InputCompartilhe'
 import Footer from './component/Footer/Footer'
 import Form from './component/Form/form'
 import Header from './component/Header/Header'
@@ -11,6 +12,7 @@ function App() {
       <Header/>
       <Form/>
       <Section/>
+      <InputCompartilhe/>
       <Footer/>
     </div>
   )
