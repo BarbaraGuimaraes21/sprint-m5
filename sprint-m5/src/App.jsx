@@ -1,4 +1,4 @@
-import { useState} from 'react'
+import { useState } from 'react'
 import './App.css'
 import InputCompartilhe from './component/Compartilhe/InputCompartilhe'
 import Footer from './component/Footer/Footer'
@@ -11,11 +11,11 @@ function App() {
 
   return (
     <div>
-      <Header/>
-      <Form/>
-      <Section/>
-      <InputCompartilhe/>
-      <Footer/>
+      <Header />
+      <Form />
+      <Section />
+      <InputCompartilhe />
+      <Footer />
     </div>
   )
 }

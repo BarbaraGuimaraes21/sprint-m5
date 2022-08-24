@@ -1,4 +1,4 @@
-.main{
+.main {
     top: 860px;
     left: 285px;
     width: 931px;
@@ -8,7 +8,7 @@
     align-items: center;
 }
 
-.main2{
+.main2 {
     top: 860px;
     left: 285px;
     width: 931px;
@@ -18,7 +18,7 @@
     align-items: center;
 }
 
-.textosectionh3{
+.textosectionh3 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -26,14 +26,14 @@
 }
 
 
-.linhah3{ 
+.linhah3 {
     width: 1000px;
     height: 500px;
     margin-left: 400px;
     display: flex;
 }
 
-.texto1h3{
+.texto1h3 {
     margin-top: 290px;
     font-weight: 400px;
     text-align: center;
@@ -46,7 +46,7 @@
     opacity: 1;
 }
 
-.texto2h3{
+.texto2h3 {
     margin-top: 290px;
     font-weight: 400px;
     text-align: center;
@@ -59,7 +59,7 @@
     opacity: 1;
 }
 
-hr{
+hr {
     margin-top: 300px;
     width: 392px;
     border: 1px solid #707070;
